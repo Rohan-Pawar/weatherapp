@@ -1,0 +1,8 @@
+{
+  "name": "ball-demo-kvssa7",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/left-pad": "1.1.1"
+  }
+}
